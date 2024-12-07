@@ -1,4 +1,4 @@
- import init, { color_ratio } from './Rust_ColorRatio.js';
+ import init, { color_ratio } from './rust_colorratio.js';
 
 const mainImg =  document.getElementById("mainImg");
 
